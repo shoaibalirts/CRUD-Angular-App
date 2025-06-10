@@ -8,5 +8,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'crud-app-angular';
+  protected title = 'CRUD-App-Angular';
+  protected name = 'Shoaib Ali';
 }
